@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7c6563cd-d7ea-44b2-b65c-a660d8d32e5b",
+    "data": [
+      {
+        "text": "carrot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bb97b1b-c8bf-4891-9b49-0da6eab1409d",
+    "data": [
+      {
+        "text": "salad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "425b73bf-3295-410c-a005-fb7463324ddb",
+    "data": [
+      {
+        "text": "raisins",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
